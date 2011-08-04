@@ -12,7 +12,7 @@
         <%= yield %>
       </section>
     </div>
-    
+    <%= render 'layouts/footer' %>
   </body>
 </html>
 
